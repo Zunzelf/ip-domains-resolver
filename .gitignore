@@ -1,0 +1,4 @@
+__pycache__/
+ip_result/
+domain_result/
+*.txt
